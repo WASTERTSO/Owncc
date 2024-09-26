@@ -4,8 +4,8 @@
 
 /*  ================[INFO]================
  *   AUTHOR  : "TGR#0737"
- *   SCRIPT    : CREDIT CARD CHECKER
- *   Telegram : https://t.me/lovingcash
+ *   SCRIPT    : TSO CC CHECKER
+ *   Telegram : https://t.me/TSO_SHIV
  *   VERSION : 1.1 (CLI) ======================================
  */
 
